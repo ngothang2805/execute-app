@@ -33,10 +33,21 @@
         }
         .links {
             margin-top: 30px;
+            text-align: center;
         }
         .links a {
-            margin: 0 10px;
+            margin: 0 15px;
             color: #0366d6;
+            font-weight: bold;
+            text-decoration: underline;
+            font-size: 16px;
+        }
+        .important-links {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+            text-align: center;
         }
     </style>
 </head>
@@ -45,6 +56,12 @@
         <div class="app-icon">E</div>
         <h1>Execute App</h1>
         <p>Ứng dụng quản lý và đồng bộ hóa tệp tin trên Android</p>
+        
+        <!-- Liên kết nổi bật ở đầu trang -->
+        <div class="important-links">
+            <a href="privacy-policy.html" rel="privacy">Chính sách bảo mật</a> | 
+            <a href="terms-of-service.html">Điều khoản dịch vụ</a>
+        </div>
     </header>
     
     <section>
@@ -60,10 +77,20 @@
         </ul>
     </section>
     
-    <div class="links">
-        <a href="privacy-policy.html">Chính sách bảo mật</a>
-        <a href="terms-of-service.html">Điều khoản dịch vụ</a>
-    </div>
+    <section id="privacy-links">
+        <h2>Liên kết quan trọng</h2>
+        <div class="links">
+            <a href="privacy-policy.html" rel="privacy">Chính sách bảo mật</a>
+            <a href="terms-of-service.html">Điều khoản dịch vụ</a>
+        </div>
+    </section>
+    
+    <footer style="margin-top: 40px; text-align: center; border-top: 1px solid #eee; padding-top: 20px;">
+        <p>© 2025 Execute App. Mọi quyền được bảo lưu.</p>
+        <div class="links">
+            <a href="privacy-policy.html" rel="privacy">Chính sách bảo mật</a>
+            <a href="terms-of-service.html">Điều khoản dịch vụ</a>
+        </div>
+    </footer>
 </body>
 </html>
-  
