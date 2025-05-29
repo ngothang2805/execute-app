@@ -1,6 +1,7 @@
-<div>
-<img src="https://github.com/ngothang2805/execute-app/blob/main/t%E1%BA%A3i%20xu%E1%BB%91ng%20(1).png?raw=true" alt="Execute - Thùng rác thông minh">
-</div>
+<!-- Banner image -->
+<p align="center">
+  <img src="banner.png" alt="Execute - Thùng rác thông minh">
+</p>
 
 # Execute - Thùng rác thông minh
 Lưu trữ và khôi phục ảnh/video của bạn một cách an toàn
