@@ -1,4 +1,4 @@
-![Execute - Thùng rác thông minh](tải%20xuống%20(1).png)
+<img src="tải%20xuống%20(1).png" alt="Execute - Thùng rác thông minh" style="pointer-events: none;">
 
 # Execute - Thùng rác thông minh
 
