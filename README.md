@@ -1,6 +1,6 @@
 <!-- Banner image -->
 <p align="center">
-  <img src="banner.png" alt="Execute - Thùng rác thông minh">
+  <img src="tải xuống (1).png" alt="Execute - Thùng rác thông minh">
 </p>
 
 # Execute - Thùng rác thông minh
