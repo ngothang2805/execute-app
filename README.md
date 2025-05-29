@@ -1,4 +1,6 @@
-Execute - Thùng rác thông minh
+![Execute - Thùng rác thông minh](tải%20xuống%20(1).png)
+
+# Execute - Thùng rác thông minh
 
 Lưu trữ và khôi phục ảnh/video của bạn một cách an toàn
 
