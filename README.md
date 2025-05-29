@@ -1,4 +1,4 @@
-![Execute - Thùng rác thông minh](https://github.com/ngothang2805/execute-app/blob/main/t%E1%BA%A3i%20xu%E1%BB%91ng%20(1).png?raw=true)
+<img src="https://github.com/ngothang2805/execute-app/blob/main/t%E1%BA%A3i%20xu%E1%BB%91ng%20(1).png?raw=true" alt="Execute - Thùng rác thông minh" style="pointer-events: none;">
 
 # Execute - Thùng rác thông minh
 Lưu trữ và khôi phục ảnh/video của bạn một cách an toàn
