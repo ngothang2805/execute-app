@@ -1,4 +1,6 @@
-<img src="tải%20xuống%20(1).png" alt="Execute - Thùng rác thông minh" style="pointer-events: none;">
+<div style="pointer-events: none;">
+  <img src="tải%20xuống%20(1).png" alt="Execute - Thùng rác thông minh">
+</div>
 
 # Execute - Thùng rác thông minh
 
