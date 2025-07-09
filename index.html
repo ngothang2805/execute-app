@@ -7,7 +7,7 @@
     <meta name="description" content="Ứng dụng Android giúp người dùng quản lý và đồng bộ hóa tệp tin với Google Drive một cách dễ dàng và an toàn.">
     <meta property="og:title" content="Execute App - Ứng dụng quản lý tệp tin">
     <meta property="og:description" content="Quản lý, đồng bộ và sao lưu tệp tin Android với Google Drive.">
-    <meta property="og:image" content="https://raw.githubusercontent.com/ngothang2805/execute-app/main/Execute.png"> <!-- Thay bằng URL ảnh đầy đủ nếu có -->
+    <meta property="og:image" content="https://raw.githubusercontent.com/ngothang2805/execute-app/main/Execute.png">
     <meta property="og:type" content="website">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 
@@ -45,20 +45,22 @@
             text-decoration: underline;
             font-size: 16px;
         }
+        .download-wrapper {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 20px 0;
+        }
         .download-btn {
-    display: block;
-    width: fit-content;
-    margin: 20px auto;
-    background-color: #4CAF50;
-    color: white;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    font-size: 16px;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
-}
-
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            font-size: 16px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
         .download-btn:hover {
             background-color: #45a049;
         }
@@ -83,6 +85,10 @@
             }
             .download-btn {
                 width: 100%;
+                box-sizing: border-box;
+            }
+            .download-wrapper {
+                justify-content: center;
             }
         }
     </style>
@@ -110,7 +116,9 @@
     <section id="privacy-links">
         <h2>Liên kết quan trọng</h2>
         <div class="important-links">
-            <a href="https://github.com/ngothang2805/execute-app/releases/download/Execute/app-release.apk" class="download-btn">📥 Tải xuống ứng dụng</a>
+            <div class="download-wrapper">
+                <a href="https://github.com/ngothang2805/execute-app/releases/download/Execute/app-release.apk" class="download-btn">📥 Tải xuống ứng dụng</a>
+            </div>
             <div class="links">
                 <a href="privacy-policy.html" rel="privacy">🔒 Chính sách bảo mật</a>
                 <a href="terms-of-service.html">📄 Điều khoản dịch vụ</a>
